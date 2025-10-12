@@ -4,6 +4,10 @@
 
 O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
+# Meteora - Demo no Vercel
+
+https://meteora-context-api-js.vercel.app
+
 ![GIF da aplicação em execução](meteora-app.gif)
 
 ## 🔨 Funcionalidades do projeto
